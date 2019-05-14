@@ -1,0 +1,61 @@
+{
+  "name": "canvas",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.15",
+    "@fortawesome/free-solid-svg-icons": "^5.7.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "availity-reactstrap-validation": "^2.5.1",
+    "axios": "^0.18.0",
+    "bcrypt": "^3.0.4",
+    "bootstrap": "^4.3.1",
+    "fontawesome": "^4.7.0",
+    "i": "^0.3.6",
+    "json": "^9.0.6",
+    "jwt-decode": "^2.2.0",
+    "local-storage": "^1.4.2",
+    "mongodb": "^3.2.2",
+    "mongoose": "^5.4.20",
+    "multer": "^1.4.1",
+    "mysql": "^2.16.0",
+    "npm": "^6.8.0",
+    "randomcolor": "^0.5.4",
+    "react": "^16.8.4",
+    "react-color": "^2.17.0",
+    "react-cookie": "^3.0.8",
+    "react-cookies": "^0.1.0",
+    "react-dnd": "^7.4.5",
+    "react-dnd-html5-backend": "^7.4.4",
+    "react-dom": "^16.8.4",
+    "react-radio-buttons": "^1.2.2",
+    "react-redux": "^6.0.1",
+    "react-router-bootstrap": "^0.24.4",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "reactstrap": "^7.1.0",
+    "redux": "^4.0.1",
+    "redux-reactstrap-modal": "^1.1.2",
+    "redux-starter-kit": "^0.4.3",
+    "redux-thunk": "^2.3.0",
+    "sessionstorage": "^0.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.2"
+  }
+}

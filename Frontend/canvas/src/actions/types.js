@@ -1,0 +1,8 @@
+export const REGISTER_USER="REGISTER_USER"
+// export const GET_COURSES="GET_COURSES"
+export const LOGIN_VALIDATION="LOGIN_VALIDATION"
+export const PROFILE_INFO = "PROFILE_INFO"
+export const GET_ERROR_INFO = "GET_ERROR_INFO"
+export const SET_LOGIN_USER = "SET_LOGIN_USER"
+
+

@@ -1,0 +1,44 @@
+.divsty {
+    background-color: #F5F5F5;
+    width: 99%;
+    padding: 11px;
+    margin-top: 2%;
+}
+
+li {
+    background-color: white;
+    height: 2%;
+    width: 100%;
+    margin-left: -2%;
+}
+
+ul {
+    width: 99%;
+}
+
+a {
+    color: #2D3B45;
+
+}
+
+.fntsty {
+    font-weight: 600;
+
+}
+
+.fntst {
+    color: #6A757D;
+    font-weight: 300;
+}
+
+.linspc {
+    height: 11px;
+}
+
+.padng {
+    padding: 11px;
+}
+
+.minHeight {
+    height: 41px;
+}
